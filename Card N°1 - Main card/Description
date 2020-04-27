@@ -1,0 +1,2 @@
+This main card controle the submersible pump and send commands to the second card to controle the irrigation pump.
+This card asks the level of the water in the storage tank from the third card witch contain an ultrasonic sensor.
