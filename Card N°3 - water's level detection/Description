@@ -1,5 +1,0 @@
-Using an ultrasonic sensor, HC-SR04, this card mesure thewater's level in the water storage.
-This operation is done if it's asked from the other cards via the RF communication.
-HC-12 is the RF device.
-This card may be upgraded to detect the rain and to mesure the temperature.
-All the mesurements will be recorded in the other cards and in the cloud.
